@@ -10,19 +10,34 @@
 funTemp <- function(file="file"){
   filename <- file(paste(file, ".R", sep=""), "w",  blocking=FALSE)
   write(paste("#\' function: ", fun, sep=""), filename)
-  write("#\' @param <name> <description>", filename, append = TRUE)
-  write("#\' @param <name> <description>", filename, append = TRUE)
-  write("#\' @return <description>", filename, append = TRUE)
-  write("#\' @export (*delete* exports function (no documentation))", filename, append = TRUE)
-  write("#\' @examplse <Rcode>", filename, append = TRUE)
-  write("#\' @example <path to R file>", filename, append = TRUE)
-  write("#\' @note <contents>", filename, append = TRUE)
-  write("#\' @section <name> : <contents>", filename, append = TRUE)
-  write("#\' @references <references>", filename, append = TRUE)
+  write("#####################", filename, append = TRUE)
+  write("# purposes...                   ", filename, append = TRUE)
+  write(paste("#Date:", Sys.Date(), sep=""), filename, append = TRUE)
+  write("#####################", filename, append = TRUE)
   write("", filename, append = TRUE)
-  write(paste(fun, "<- function(){", sep=""), filename, append = TRUE)
+  
+  write("### load libraries", filename, append = TRUE)
+  write("library(rgdal)", filename, append = TRUE)
+  write("library(ggplot2)", filename, append = TRUE)
+  
+  write("### set working directory", filename, append = TRUE)
+  write("# setwd(\"R\")", filename, append = TRUE)
+  write("### read data", filename, append = TRUE)
+  write("data <- read.table(\"data/data.csv\"), header=TRUE, sep=\",\")", filename, append = TRUE)
+  
+  write("data <- xls)", filename, append = TRUE)
+    
+  write("spdf <- readOGR(\"shapefile.shp\", layer=\"shapefile\")", filename, append = TRUE)
+  
+  write("### analysis", filename, append = TRUE)
   write("", filename, append = TRUE)
+  
+  write("### plot", filename, append = TRUE)
+  write("ggplot(data, aes(x=x, y=y))", filename, append = TRUE)
   write("", filename, append = TRUE)
-  write("}", filename, append = TRUE)
+  
+  write("### write output", filename, append = TRUE)
+  write("write.table(data, \"data.csv\", row.names=FALSE, col.names=TRUE)", filename, append = TRUE)
+  
   close(filename)
 }
