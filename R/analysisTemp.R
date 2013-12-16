@@ -22,11 +22,21 @@ funTemp <- function(file="file"){
   
   write("### set working directory", filename, append = TRUE)
   write("# setwd(\"R\")", filename, append = TRUE)
+  
   write("### read data", filename, append = TRUE)
   write("data <- read.table(\"data/data.csv\"), header=TRUE, sep=\",\")", filename, append = TRUE)
   
-  write("data <- xls)", filename, append = TRUE)
+  write("# read xls", filename, append = TRUE)
+  write("library(RODBC)", filename, append = TRUE)
+  write("channel <- odbcConnectExcel(\"c:/myexel.xls\")", filename, append = TRUE)
+  write("data <- sqlFetch(channel, \"Sheet1\")", filename, append = TRUE)
+  write("odbcClose(channel)", filename, append = TRUE)
+  
+  write("# read xlsx", filename, append = TRUE)
+  write("library(xlsx)", filename, append = TRUE)
+  write("data <- read.xlsx(\"MyExcelFile.xlsx\", 1 , stringsAsFactors=F)", filename, append=TRUE)
     
+  write("# read spatial data", filename, append = TRUE)
   write("spdf <- readOGR(\"shapefile.shp\", layer=\"shapefile\")", filename, append = TRUE)
   
   write("### analysis", filename, append = TRUE)

@@ -6,7 +6,7 @@
 #' @description create a function template in the working directory
 
 funTemp <- function(fun="fun", folder="/R"){
-  if length(folder)>0)
+  if (length(folder)>0){
     filename <- file(paste(getwd(), folder, "/", fun, ".R", sep=""), "w",  blocking=FALSE)
   } else {
     filename <- file(paste(fun, ".R", sep=""), "w",  blocking=FALSE)
