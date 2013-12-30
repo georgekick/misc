@@ -1,4 +1,4 @@
-#' function: ptsAnimate
+#' function: RTM
 #' @param <name> <description>
 #' @param <name> <description>
 #' @return <description>
@@ -9,7 +9,7 @@
 #' @section <name> : <contents>
 #' @references <references>
 
-ptsAnimate<- function(){
+RTM <- function(){
 
 
 }

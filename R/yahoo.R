@@ -1,4 +1,4 @@
-#' function: ptsAnimate
+#' function: yahoo
 #' @param <name> <description>
 #' @param <name> <description>
 #' @return <description>
@@ -8,8 +8,10 @@
 #' @note <contents>
 #' @section <name> : <contents>
 #' @references <references>
-
-ptsAnimate<- function(){
+# use the zipcode package 
+# http://jeffreybreen.wordpress.com/2011/01/05/cran-zipcode/
+# loop through zip code in a city and obtain places of interests
+yahoo <- function(){
 
 
 }

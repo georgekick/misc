@@ -3,7 +3,7 @@
 #' @param <name> <description>
 #' @return <description>
 #' @export (*delete* exports function (no documentation))
-#' @examplse <Rcode>
+#' @examples <Rcode>
 #' @example <path to R file>
 #' @note <contents>
 #' @section <name> : <contents>

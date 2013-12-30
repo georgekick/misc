@@ -16,7 +16,7 @@ funTemp <- function(fun="fun", folder="/R"){
   write("#\' @param <name> <description>", filename, append = TRUE)
   write("#\' @return <description>", filename, append = TRUE)
   write("#\' @export (*delete* exports function (no documentation))", filename, append = TRUE)
-  write("#\' @examplse <Rcode>", filename, append = TRUE)
+  write("#\' @examples <Rcode>", filename, append = TRUE)
   write("#\' @example <path to R file>", filename, append = TRUE)
   write("#\' @note <contents>", filename, append = TRUE)
   write("#\' @section <name> : <contents>", filename, append = TRUE)
