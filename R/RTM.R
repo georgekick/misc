@@ -1,4 +1,5 @@
 #' function: RTM
+#' use yellow page search
 #' @param <name> <description>
 #' @param <name> <description>
 #' @return <description>
