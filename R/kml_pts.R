@@ -1,12 +1,12 @@
 #' function: kml_pts
 #' @param kml.name (required) a character vector of a kml file name
-#' @param spdf (required) spatial polygon data frame
+#' @param spdf (required) spatial point data frame
 #' @param icon.url (optional) a character vector of an icon URL
 #' @param col (optional) icon color from the following: c("blue", "grn", "ltblu", "pink", "purple", "red", "wht", "ylw")
 #' @param out.dir (optional) a character vector of an output file directory. The default is current directory.
 #' @param type (optional) a column name indicating incident types
 #' @param name.col (optional) a column name for a point feature name (default is no name/id)
-#' @param name.seq (optional) a logical vector of whether to use an sequence  optional argument of a column name for a point feature name (default is no name/id)
+#' @param name.seq (optional) a logical vector of whether to use an sequence numver as an ID (default is no name/id)
 #' @return a kml point file
 #' @export
 #' @examples
@@ -82,10 +82,14 @@ kml_pts <- function(kml.name, icon.url, out.dir, spdf, type, col, name.col, name
   
   # check coordinates
   stopifnot(!is.na(proj4string(spdf)))
-  latlong <- "+init=epsg:4326"
-  if (!proj4string(spdf)==CRS(latlong)@projargs){
-    spdf <- spTransform(spdf, CRS(latlong))
+  # latlong <- "+init=epsg:4326"
+  # if (!proj4string(spdf)==CRS(latlong)@projargs){
+  #  spdf <- spTransform(spdf, CRS(latlong))
+  #}
+  if (!check_projection(spdf)){
+    spdf <- reproject(spdf)
   }
+  
   
   #kmlPoints(obj=data.spdf2, kmlfile="test.kml", kmlname="point", kmldescription="",
   #    name=NULL, description="",
@@ -145,4 +149,11 @@ kml_pts <- function(kml.name, icon.url, out.dir, spdf, type, col, name.col, name
   write("</Document>", filename, append = TRUE)
   write("</kml>", filename, append = TRUE)
   close(filename)
+    
+  if (!missing(out.dir)){
+    browseURL(file.path(out.dir, kml.name))
+  } else {
+    browseURL(file.path(kml.name))
+  }
+  
 }

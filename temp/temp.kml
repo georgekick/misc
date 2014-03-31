@@ -1,0 +1,3497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name> temp </name>
+<open>1</open>
+<Style id="style1">
+<IconStyle>
+<Icon>
+              <href>https://dl.dropboxusercontent.com/u/121989515/kml/markers/icon57.png</href>
+              </Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:19 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12047756 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 07-07-2012 11:05:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 7/7/2012 11:07:53 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 7/12/2012 12:27:21 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2852 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 55 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 16XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S DELNO AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W EDEN AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BA0637 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S DELNO AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1681 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1681 S DELNO AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.82 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.72517 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-07-07 11:05:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 7 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8199537,36.7251719
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:47 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12049875 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 07-15-2012 00:01:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 7/15/2012 12:55:12 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 7/15/2012 6:36:40 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1255 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 48 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 4XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W MINARETS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N MAROA AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BB2248 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W MINARETS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 481 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 481 W MINARETS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8014 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.84237 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-07-15 00:01:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 7 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.801426,36.842368
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:56 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12053435 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 07-29-2012 05:07:22 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 7/29/2012 5:07:22 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 7/30/2012 1:04:37 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2248 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 33 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 35XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W WELDON AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N SELLAND AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BD2331 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W WELDON AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 3581 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 3581 W WELDON AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8574 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.7684 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-07-29 05:07:22 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 7 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.857414,36.768397
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12054333 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-01-2012 19:38:34 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/1/2012 7:38:34 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/3/2012 10:31:13 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2255 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 30 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E VASSAR AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N GLENN AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BD7480 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E VASSAR AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> E VASSAR AVE and N GLENN AV </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7934 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77136 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-01 19:38:34 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7933632,36.7713576
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12055221 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-04-2012 23:59:40 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/4/2012 11:59:40 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/5/2012 9:08:21 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2048 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 27 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N FELAND AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W BELLAIRE WY </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BE2191 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N FELAND AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> N FELAND AVE and W BELLAIRE WY </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8484 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79151 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-04 23:59:40 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8483599,36.7915099
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12056119 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-08-2012 22:45:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/8/2012 10:55:15 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/9/2012 7:30:24 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2661 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 23 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S RECREATION AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E EL MONTE WY </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BE7707 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S RECREATION AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> S RECREATION AVE and E EL MONTE WY </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7387 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73497 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-08 22:45:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7387027,36.7349715
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12056603 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-10-2012 10:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/10/2012 10:35:49 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/11/2012 8:14:25 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2360 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 21 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 42XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E OLIVE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N CEDAR AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BF0408 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E OLIVE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4224 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4224 E OLIVE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7536 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.75772 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-10 10:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7536221,36.7577207
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12058165 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-17-2012 00:01:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/17/2012 12:11:01 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/28/2012 9:11:52 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2152 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 15 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 11XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W SIMPSON AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N CHANNING WY </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BF9353 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W SIMPSON AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1124 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1124 W SIMPSON AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8246 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77835 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-17 00:01:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8246097,36.7783496
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12058546 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-18-2012 17:27:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/18/2012 5:27:31 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/19/2012 1:35:28 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1947 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 13 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N PARKWAY DR </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W ASHLAN AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BG1687 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N PARKWAY DR </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> N PARKWAY DR and W ASHLAN AV </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.867 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79356 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-18 17:27:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8669698,36.7935554
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12059969 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-23-2012 22:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/23/2012 10:54:43 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/26/2012 5:23:25 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2559 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 8 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 37XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E TULARE ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S SEVENTH ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BG9573 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E TULARE ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 3724 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 3724 E TULARE ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7621 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.74319 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-23 22:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Thurs </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7620729,36.7431852
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12062110 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-31-2012 18:57:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/31/2012 7:57:26 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/31/2012 10:02:05 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1256 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6383 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> UNDER $50 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 7 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 71XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N ABBY ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E LOCUST AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BI1493 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N ABBY ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 7104 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 7104 N ABBY ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7895 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.83974 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-08-31 18:57:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7895102,36.8397431
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:31:59 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12062243 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-01-2012 03:55:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/1/2012 4:02:27 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/1/2012 2:45:16 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2155 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 7 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 30XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N BLACKSTONE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E SIMPSON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BI2159 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N BLACKSTONE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 3004 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 3004 N BLACKSTONE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7904 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77803 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-09-01 03:55:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7903563,36.778028
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12064993 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-11-2012 13:40:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/11/2012 1:46:17 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/11/2012 4:34:52 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2762 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6383 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> UNDER $50 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 48XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S WINERY AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BJ7058 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4885 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4885 E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7329 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73604 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-09-11 13:40:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7329265,36.7360419
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12063423 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-05-2012 12:05:59 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/5/2012 12:05:59 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/5/2012 3:02:21 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2763 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6383 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> UNDER $50 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 15 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 10XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S PEACH AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E LANE AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BI8349 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S PEACH AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1067 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1067 S PEACH AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7183 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73247 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-09-05 12:05:59 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7183394,36.7324659
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12067020 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-18-2012 21:15:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/18/2012 9:24:54 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/19/2012 8:06:56 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1751 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 46XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N CRYSTAL AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W INDIANAPOLIS AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BK7635 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N CRYSTAL AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4667 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4667 N CRYSTAL AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8307 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.80208 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-09-18 21:15:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.830661,36.802085
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12068494 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-24-2012 19:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/24/2012 7:36:10 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/25/2012 9:45:59 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1950 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 28XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W ASHLAN AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N MARKS AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BL6017 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W ASHLAN AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2853 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2853 W ASHLAN AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8439 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79367 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-09-24 19:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8438858,36.7936677
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12073619 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 10-08-2012 22:26:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 10/14/2012 10:26:00 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 10/15/2012 2:13:17 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1856 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 10 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 24XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E ASHCROFT AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N FRESNO ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BO3248 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E ASHCROFT AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2491 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2491 E ASHCROFT AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7812 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79841 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-10-08 22:26:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 10 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7811934,36.7984112
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12075771 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 10-24-2012 11:07:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 10/24/2012 11:08:26 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 10/24/2012 3:21:18 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2663 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6283 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> $50 - $200 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 51XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S PEACH AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BP5537 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 5111 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 5111 E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7224 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73595 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-10-24 11:07:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 10 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7223955,36.7359476
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12078765 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 11-06-2012 08:26:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 11/6/2012 8:27:13 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 11/6/2012 11:09:15 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2356 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 18XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E HEDGES AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N ABBY ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BR2595 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E HEDGES AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1889 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1889 E HEDGES AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7881 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.75955 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-11-06 08:26:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 11 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7880765,36.7595548
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12079993 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 11-11-2012 19:45:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 11/11/2012 8:07:40 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 11/12/2012 5:06:15 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2258 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 5 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 34XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> MAYFAIR DR SOUTH </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E NORMAL AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BR9410 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> MAYFAIR DR SOUTH </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 3490 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 3490 MAYFAIR DR SOUTH </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7659 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.76599 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-11-11 19:45:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 11 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7658847,36.765986
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12082250 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 11-21-2012 02:08:51 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 11/21/2012 2:08:51 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 11/21/2012 6:33:49 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 3056 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 7 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 24XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S POPPY AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E GROVE AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BT1235 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S POPPY AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2420 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2420 S POPPY AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7896 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.71344 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-11-21 02:08:51 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 11 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7896497,36.7134436
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12086442 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-09-2012 01:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/9/2012 1:01:54 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/10/2012 2:39:42 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2961 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 46XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E TRUMAN AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S BACKER AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BV4330 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E TRUMAN AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4628 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4628 E TRUMAN AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7436 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.71635 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-12-09 01:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.743595,36.7163525
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12087100 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-11-2012 20:50:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/11/2012 9:00:30 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/12/2012 8:58:26 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2561 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 46XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E ILLINOIS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N BACKER AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BV7710 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E ILLINOIS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4619 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4619 E ILLINOIS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7446 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.74503 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-12-11 20:50:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7445862,36.7450298
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12088228 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-16-2012 15:50:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/16/2012 3:56:40 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/16/2012 10:29:26 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2664 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 4XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S LIND AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E HUNTINGTON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> R </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BW3699 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S LIND AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 422 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 422 S LIND AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7119 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73912 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-12-16 15:50:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.711855,36.739123
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12087915 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-15-2012 05:20:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/15/2012 5:28:01 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/15/2012 1:13:23 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2156 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E SHIELDS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N FRWY 41 </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BW2042 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E SHIELDS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> E SHIELDS AVE and N FRWY 41 </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7726 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.74684 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-12-15 05:20:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7725868,36.7468422
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12088672 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-18-2012 10:56:17 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/18/2012 10:56:17 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/19/2012 2:03:10 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1966 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 58XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E SHIELDS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N CLAREMONT AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BW6065 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E SHIELDS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 5885 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 5885 E SHIELDS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.6895 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77947 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-12-18 10:56:17 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.6895038,36.7794698
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12089709 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-22-2012 19:14:53 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/22/2012 7:14:53 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/22/2012 10:15:12 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2058 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6283 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> $50 - $200 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 31 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 31XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E SHIELDS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N FIRST ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BX1900 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E SHIELDS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 3164 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 3164 E SHIELDS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.771 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77951 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-12-22 19:14:53 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7710155,36.7795099
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13001511 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 01-05-2013 21:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 1/7/2013 10:51:17 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 1/8/2013 6:01:47 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1659 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 17 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 14XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E BULLDOG LN </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N SIXTH ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AA8688 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E BULLDOG LN </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1464 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1464 E BULLDOG LN </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7619 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.81226 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-01-05 21:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 1 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7618972,36.8122604
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13002471 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 01-11-2013 19:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 1/11/2013 7:06:44 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 1/12/2013 4:25:08 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2257 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 11 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 20XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N ANGUS ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E WELDON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AB3720 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N ANGUS ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2064 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2064 N ANGUS ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.777 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.7695 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-01-11 19:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 1 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7770238,36.7694977
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 12090462 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-26-2012 19:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/26/2012 7:27:03 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/27/2012 1:43:03 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2762 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6383 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> UNDER $50 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 32 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 48XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S CHESTNUT AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 12BX6310 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4864 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4864 E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7332 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73419 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2012-12-26 19:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2012 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7331935,36.7341871
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13000476 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 01-03-2013 08:19:36 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 1/3/2013 8:19:36 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 1/3/2013 1:19:00 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2362 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 7100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> AUTOS/STOLEN LOCAL </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 24 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 48XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E HOME AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N GARDEN AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 7 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AA2959 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E HOME AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4864 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4864 E HOME AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7336 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.7622 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-01-03 08:19:36 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Thurs </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 1 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7335788,36.7621972
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13001060 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 01-05-2013 23:16:58 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 1/5/2013 11:16:58 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 1/6/2013 7:10:26 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2761 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 7100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> AUTOS/STOLEN LOCAL </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 43 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S SIERRA VISTA AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 7 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AA6355 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S SIERRA VISTA AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> S SIERRA VISTA AVE and E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7415 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73585 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-01-05 23:16:58 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 1 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7415326,36.7358515
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13006298 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 01-27-2013 04:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 1/27/2013 4:45:55 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 1/28/2013 6:18:00 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2361 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 22 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 47XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E HEDGES AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N RECREATION AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AD4567 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E HEDGES AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4725 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4725 E HEDGES AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7397 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.75954 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-01-27 04:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 1 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7396876,36.7595445
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13008101 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 02-03-2013 20:10:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 2/3/2013 8:14:08 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 2/4/2013 5:12:33 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2851 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 14 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 15XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S CRYSTAL AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W STROTHER AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AE4254 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S CRYSTAL AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1525 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1525 S CRYSTAL AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8311 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.72703 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-02-03 20:10:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 2 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8311178,36.7270269
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13008122 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 02-03-2013 21:36:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 2/3/2013 9:38:16 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 2/4/2013 4:44:22 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2355 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 14 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 12XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E HEDGES AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N POPLAR AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AE4398 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E HEDGES AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1225 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1225 E HEDGES AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.796 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.75953 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-02-03 21:36:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 2 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7959929,36.7595255
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13008288 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 02-04-2013 16:05:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 2/4/2013 4:08:17 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 2/5/2013 7:12:51 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2453 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 13 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 8XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N THORNE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W DUDLEY AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AE5269 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N THORNE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 825 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 825 N THORNE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8131 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.75347 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-02-04 16:05:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 2 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8131077,36.7534724
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13011883 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 02-19-2013 21:04:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 2/19/2013 9:04:07 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 2/20/2013 1:43:14 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2250 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 22XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N MARKS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W CLINTON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AG4909 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N MARKS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2255 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2255 N MARKS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8444 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.76954 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-02-19 21:04:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 2 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.844381,36.7695389
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13013541 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 02-26-2013 23:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 2/26/2013 11:54:28 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 2/27/2013 8:46:56 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2061 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 33XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N SIERRA VISTA AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E FOUNTAIN WY </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AH4437 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N SIERRA VISTA AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 3316 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 3316 N SIERRA VISTA AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7408 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.78052 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-02-26 23:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 2 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7408045,36.7805232
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13011045 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 02-16-2013 10:01:24 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 2/16/2013 10:01:24 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 2/17/2013 2:47:46 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2853 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 17 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 1XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W VALENCIA AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S THORNE AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AG0458 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W VALENCIA AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 163 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 163 W VALENCIA AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8139 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.7233 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-02-16 10:01:24 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 2 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8139033,36.7233028
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13021168 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 03-30-2013 17:28:03 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 3/30/2013 5:28:03 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 3/31/2013 4:48:01 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2660 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 45XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E MONO AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S JACKSON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AL7734 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E MONO AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4523 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4523 E MONO AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.749 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73683 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-03-30 17:28:03 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 3 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7489637,36.7368346
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13021294 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 03-31-2013 03:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 3/31/2013 3:12:04 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 3/31/2013 12:49:20 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1956 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 41XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N CLARK ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E BUCKINGHAM WY </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AL8552 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N CLARK ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4123 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4123 N CLARK ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.786 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79224 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-03-31 03:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 3 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.785999,36.7922422
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13022505 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 04-05-2013 22:20:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 4/5/2013 10:32:48 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 4/6/2013 8:30:43 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2554 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N FERGER AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E FRANKLIN AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AM6005 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N FERGER AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> N FERGER AVE and E FRANKLIN AV </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.807 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.74877 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-04-05 22:20:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 4 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8069504,36.7487743
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13025713 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 04-19-2013 22:06:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 4/19/2013 10:06:41 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 4/19/2013 11:48:00 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2761 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 7200 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> TRUCKS  BUSES/STOLEN LOCAL </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 46XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E EL MONTE WY </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S RECREATION AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 7 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AO4926 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E EL MONTE WAY </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4619 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4619 E EL MONTE WAY </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7445 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73521 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-04-19 22:06:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 4 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.744544,36.735206
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13023321 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 04-09-2013 15:32:08 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 4/9/2013 3:32:08 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 4/9/2013 8:44:49 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2555 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 15 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 10XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E VOORMAN AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N VAN NESS AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AN0826 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E VOORMAN AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1065 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1065 E VOORMAN AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7982 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.74415 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-04-09 15:32:08 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 4 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7982418,36.7441538
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13026790 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 04-24-2013 08:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 4/24/2013 8:40:26 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 4/25/2013 10:01:29 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2156 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 18XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E CLINTON AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N BLACKSTONE AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AP1036 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E CLINTON AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1841 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1841 E CLINTON AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7885 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77229 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-04-24 08:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 4 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7884842,36.7722909
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13026889 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 04-24-2013 14:59:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 4/24/2013 2:59:00 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 4/25/2013 4:48:32 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2560 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 45XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E NEVADA AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N BARTON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AP1502 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E NEVADA AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4534 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4534 E NEVADA AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7484 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.74568 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-04-24 14:59:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 4 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.748415,36.745679
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13028384 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 04-30-2013 19:42:40 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 4/30/2013 7:42:40 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 5/1/2013 4:30:58 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1760 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E SIERRA MADRE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N CEDAR AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AQ0240 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E SIERRA MADRE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> E SIERRA MADRE AVE and N CEDAR AV </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7541 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.80771 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-04-30 19:42:40 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 4 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7541132,36.8077077
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13029021 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 05-03-2013 13:15:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 5/3/2013 1:22:04 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 5/3/2013 4:24:58 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2050 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 22XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W PRINCETON AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N HUGHES AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> R </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AQ4020 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W PRINCETON AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2237 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2237 W PRINCETON AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8373 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77607 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-05-03 13:15:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 5 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8372843,36.7760702
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13032806 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 05-19-2013 18:23:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 5/19/2013 6:23:00 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 5/20/2013 6:12:55 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2250 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 8 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 23XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N PARKWAY DR </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W VASSAR AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AS6345 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N PARKWAY DR </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2395 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2395 N PARKWAY DR </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8393 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77204 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-05-19 18:23:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 5 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8393053,36.7720417
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13033855 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 05-24-2013 00:55:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 5/24/2013 1:01:43 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 5/24/2013 5:18:36 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2354 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 12XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N WISHON AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E HEDGES AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AT2433 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N WISHON AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1295 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1295 N WISHON AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8015 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.7593 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-05-24 00:55:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 5 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.801473,36.759303
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13034106 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 05-25-2013 01:40:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 5/25/2013 1:48:23 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 5/25/2013 9:47:15 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2854 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 15 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 11XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> FRESNO ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> B ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AT3939 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> FRESNO ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1121 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1121 FRESNO ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8011 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.72976 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-05-25 01:40:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 5 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8010679,36.7297611
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13034734 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 05-27-2013 20:32:08 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 5/27/2013 8:32:08 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 5/27/2013 10:45:19 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1757 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6283 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> $50 - $200 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 12 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 5XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E SHAW AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N ANGUS ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AT7584 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E SHAW AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 521 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 521 E SHAW AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7792 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.80653 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-05-27 20:32:08 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 5 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7792371,36.8065317
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13036683 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 06-04-2013 16:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 6/4/2013 5:45:03 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 6/4/2013 7:46:35 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1700 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6483 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> OVER $400 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 48XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N FRESNO ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E FAIRMONT AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AU8550 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N FRESNO ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4821 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4821 N FRESNO ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7814 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.80524 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-06-04 16:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 6 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7814494,36.8052446
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13032671 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 05-18-2013 23:31:41 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 5/18/2013 11:31:41 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 5/19/2013 7:26:59 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2857 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 39 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E CALIFORNIA AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S CHERRY AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AS5427 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E CALIFORNIA AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> E CALIFORNIA AVE and S CHERRY AV </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7818 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.72135 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-05-18 23:31:41 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 5 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7818226,36.7213458
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13039164 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 06-15-2013 20:20:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 6/15/2013 8:30:21 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 6/17/2013 12:18:48 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1950 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 11 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 28XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W ASHLAN AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N MARKS AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AW3717 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W ASHLAN AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2871 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2871 W ASHLAN AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.844 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79365 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-06-15 20:20:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 6 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8440348,36.7936528
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13042061 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 06-28-2013 19:42:23 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 6/28/2013 7:42:23 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 6/29/2013 10:50:21 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1858 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 45XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N FIRST ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E GETTYSBURG AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AY1349 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N FIRST ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4502 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4502 N FIRST ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7722 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79955 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-06-28 19:42:23 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 6 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7722098,36.7995473
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13042791 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 07-01-2013 19:55:13 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 7/1/2013 7:55:13 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 7/1/2013 9:23:49 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 3062 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6383 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> UNDER $50 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 48XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E JENSEN AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S CHESTNUT AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AY5626 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E JENSEN AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4881 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4881 E JENSEN AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7327 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.70723 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-07-01 19:55:13 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 7 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7327273,36.7072254
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13044328 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 07-08-2013 04:54:15 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 7/8/2013 4:54:15 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 7/8/2013 6:56:32 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2050 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6384 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> UNDER $50 THEFT/FROM AUTO </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 33XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N MARKS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W DAKOTA AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13AZ5089 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N MARKS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 3338 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 3338 N MARKS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8443 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.78547 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-07-08 04:54:15 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 7 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8443351,36.7854696
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13047268 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 07-20-2013 02:05:35 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 7/20/2013 2:05:35 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 7/20/2013 8:12:13 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1258 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 73XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N BOND ST </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E ALLUVIAL AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> R </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BB2393 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N BOND ST </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 7363 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 7363 N BOND ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7704 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.84401 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-07-20 02:05:35 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 7 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7703564,36.844015
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13050329 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 07-31-2013 21:10:21 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 7/31/2013 9:10:21 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/1/2013 12:39:45 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1757 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6283 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> $50 - $200 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 11 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 5XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E SHAW AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N ANGUS ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BC8741 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E SHAW AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 591 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 591 E SHAW AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.777 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.80847 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-07-31 21:10:21 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 7 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7770425,36.8084738
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13050364 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-01-2013 00:48:26 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/1/2013 12:48:26 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/1/2013 2:20:09 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2253 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 11 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 16XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N ARTHUR AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> W MCKINLEY AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BC9022 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N ARTHUR AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1691 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1691 N ARTHUR AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8154 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.76579 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-08-01 00:48:26 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Thurs </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8154045,36.7657876
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13053787 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-14-2013 20:45:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/14/2013 8:49:28 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/15/2013 10:43:33 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1956 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 18XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E DAKOTA AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N ABBY ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BE8475 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E DAKOTA AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1803 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1803 E DAKOTA AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7892 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.78716 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-08-14 20:45:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.789191,36.78716
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13054999 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-19-2013 20:20:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/19/2013 8:30:21 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/20/2013 8:42:48 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1851 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 14XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W SWIFT AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N EMERSON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BF5709 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W SWIFT AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1475 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1475 W SWIFT AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.8288 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79551 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-08-19 20:20:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.828783,36.7955131
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13056138 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-24-2013 03:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/24/2013 3:58:57 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/24/2013 9:14:42 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2664 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 52XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S VILLA AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> R </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BG1974 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 5205 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 5205 E KINGS CANYON RD </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.718 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73622 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-08-24 03:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.718013,36.736225
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13055538 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-17-2013 07:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/21/2013 10:28:27 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/21/2013 10:29:39 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2557 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 10 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 26XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E MCKENZIE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N U ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BF8787 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E MCKENZIE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2682 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2682 E MCKENZIE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7794 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.74683 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-08-17 07:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7793994,36.7468272
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13057297 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-28-2013 23:53:22 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/28/2013 11:53:22 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/29/2013 10:55:07 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2860 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 43XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E WOODWARD AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S CEDAR AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BG8888 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E WOODWARD AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4361 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4361 E WOODWARD AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7525 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.72321 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-08-28 23:53:22 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.752506,36.7232096
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13057549 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 08-29-2013 23:09:43 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 8/29/2013 11:09:43 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 8/31/2013 1:35:06 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2955 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 23XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S EUNICE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E REVEREND CHESTER RIGGINS AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BH0353 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S EUNICE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2311 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2311 S EUNICE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7942 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.71739 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-08-29 23:09:43 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Thurs </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 8 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7941748,36.717389
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13058850 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-04-2013 01:26:23 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/4/2013 1:26:23 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/5/2013 11:18:53 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2261 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 8 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 47XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E MCKINLEY AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N SIERRA VISTA AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BH7524 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E MCKINLEY AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4749 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4749 E MCKINLEY AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7386 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.76519 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-09-04 01:26:23 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Wed </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7386347,36.7651859
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13061330 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-13-2013 19:08:37 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/13/2013 7:08:37 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/14/2013 8:34:57 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2763 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 15 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 50XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E MONTECITO AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S PIERCE AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BJ1455 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E MONTECITO AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 5037 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 5037 E MONTECITO AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7256 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73404 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-09-13 19:08:37 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7256416,36.7340411
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13062109 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-16-2013 17:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/17/2013 1:13:25 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/17/2013 3:05:58 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1961 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 12 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 41XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N CHESTNUT AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E ASHLAN AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BJ6230 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N CHESTNUT AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4137 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4137 N CHESTNUT AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7362 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.79431 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-09-16 17:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7362425,36.7943107
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13063871 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-23-2013 20:05:58 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/23/2013 8:05:58 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/24/2013 5:01:55 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 3257 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 5 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 27XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E ANNADALE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> S ANGUS ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BK5751 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E ANNADALE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2737 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2737 E ANNADALE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7782 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.69962 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-09-23 20:05:58 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7782025,36.6996247
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13064592 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-26-2013 17:06:14 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/26/2013 5:06:14 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/26/2013 8:02:13 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2459 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 5156 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> BURG/FORCED/NON-RES </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 41XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E WHITE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> PLAZA DRIVE EAST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 5 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BK9743 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E WHITE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 4137 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 4137 E WHITE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7558 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.75175 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-09-26 17:06:14 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Thurs </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7558158,36.751746
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13064700 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 09-27-2013 02:01:53 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 9/27/2013 2:01:53 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 9/27/2013 3:04:23 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2051 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 14 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 13XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> W SHIELDS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N WEST AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BL0362 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> W SHIELDS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 1331 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 1331 W SHIELDS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.827 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77928 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-09-27 02:01:53 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 9 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.8270074,36.7792832
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13074170 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 11-05-2013 19:54:02 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 11/5/2013 7:54:02 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 11/6/2013 11:22:08 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2661 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 4XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S WOODROW AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E HUNTINGTON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BQ2961 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S WOODROW AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 496 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 496 S WOODROW AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7427 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.73772 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-11-05 19:54:02 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 11 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7426686,36.7377171
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13079752 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 11-29-2013 22:07:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 11/29/2013 8:22:09 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 11/30/2013 2:53:24 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2155 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6283 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> $50 - $200 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 5 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 24XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N BLACKSTONE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E CLINTON AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BT3804 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N BLACKSTONE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2476 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2476 N BLACKSTONE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7907 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.84948 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-11-29 22:07:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Fri </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 11 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7906837,36.8494794
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13082092 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-10-2013 22:00:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/10/2013 11:00:46 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/11/2013 2:44:57 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2155 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N GLENN AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E BROWN AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BU7157 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N GLENN AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> N GLENN AVE and E BROWN AV </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7928 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.77499 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-12-10 22:00:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Tues </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7928145,36.7749879
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13084890 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-22-2013 18:52:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/22/2013 6:58:59 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/23/2013 2:57:59 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2457 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 4000 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> ASSAULT </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 25XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E THOMAS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N AUGUSTA ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> R </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BW1940 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E THOMAS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2551 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2551 E THOMAS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7802 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.75253 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-12-22 18:52:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7802059,36.75253
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13084836 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-22-2013 12:10:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/22/2013 12:17:33 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/23/2013 3:49:51 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 3057 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SW </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 25XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S EAST AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E GARRETT AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BW1540 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S EAST AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2536 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2536 S EAST AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7727 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.70992 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-12-22 12:10:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7727237,36.7099231
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13084729 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-21-2013 21:29:13 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/21/2013 9:29:13 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/21/2013 11:55:36 PM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1156 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 6283 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> $50 - $200 THEFT/SHOPLIFTING </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> NARC </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 4 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 78XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> N BLACKSTONE AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E NEES AV </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 6 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BW0903 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> N BLACKSTONE AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 7813 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 7813 N BLACKSTONE AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7893 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.84958 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-12-21 21:29:13 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sat </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7893355,36.8495847
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13086259 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-29-2013 01:30:00 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/29/2013 2:15:32 AM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 12/30/2013 2:08:27 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 2962 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> SE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 3 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD> 21XX </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> S MATUS AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> E GEARY ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BW9486 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> S MATUS AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD> 2104 </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> 2104 S MATUS AVE </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.7354 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.72016 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-12-29 01:30:00 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Sun </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7353865,36.7201591
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#style1</styleUrl>
+<description>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-1 package -->
+<!-- Wed Jan 01 14:32:00 2014 -->
+<TABLE border="1">
+  <TR> <TD align="right"> CASE_NO </TD> <TD> 13086668 </TD> </TR>
+  <TR> <TD align="right"> OCC_DATE </TD> <TD> 12-30-2013 22:25:24 </TD> </TR>
+  <TR> <TD align="right"> OPEN_TIME </TD> <TD> 12/30/2013 10:25:24 PM </TD> </TR>
+  <TR> <TD align="right"> CLEAR_TIME </TD> <TD> 1/1/2014 8:48:52 AM </TD> </TR>
+  <TR> <TD align="right"> ZONE </TD> <TD> 1659 </TD> </TR>
+  <TR> <TD align="right"> DISTRICT </TD> <TD> NE </TD> </TR>
+  <TR> <TD align="right"> UCRCODE </TD> <TD> 1100 </TD> </TR>
+  <TR> <TD align="right"> UCR_DESCRIPTION </TD> <TD> MURDER  NON NEG HOMICIDE </TD> </TR>
+  <TR> <TD align="right"> CAS </TD> <TD> HOMI </TD> </TR>
+  <TR> <TD align="right"> DOMV </TD> <TD> 0 </TD> </TR>
+  <TR> <TD align="right"> DAYS </TD> <TD> 2 </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> STREET </TD> <TD> E SAN RAMON AV </TD> </TR>
+  <TR> <TD align="right"> XSTREET </TD> <TD> N SIXTH ST </TD> </TR>
+  <TR> <TD align="right"> CT </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> ADJUSTED </TD> <TD> 1 </TD> </TR>
+  <TR> <TD align="right"> UR </TD> <TD> U </TD> </TR>
+  <TR> <TD align="right"> EVENT_NUM </TD> <TD> 13BX1671 </TD> </TR>
+  <TR> <TD align="right"> STREET2 </TD> <TD> E SAN RAMON AVE </TD> </TR>
+  <TR> <TD align="right"> ADDR_NO2 </TD> <TD>  </TD> </TR>
+  <TR> <TD align="right"> ADDST </TD> <TD> E SAN RAMON AVE and N SIXTH ST </TD> </TR>
+  <TR> <TD align="right"> lon </TD> <TD> -119.763 </TD> </TR>
+  <TR> <TD align="right"> lat </TD> <TD> 36.81407 </TD> </TR>
+  <TR> <TD align="right"> Rdate </TD> <TD> 2013-12-30 22:25:24 </TD> </TR>
+  <TR> <TD align="right"> wday </TD> <TD> Mon </TD> </TR>
+  <TR> <TD align="right"> year </TD> <TD> 2013 </TD> </TR>
+  <TR> <TD align="right"> month </TD> <TD> 12 </TD> </TR>
+   </TABLE>
+
+</description>
+<Point>
+<coordinates>
+-119.7630437,36.8140721
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

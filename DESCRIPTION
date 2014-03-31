@@ -2,11 +2,13 @@ Package: misc
 Type: Package
 Title: What the package does (short line)
 Version: 1.0
-Date: 2013-12-15
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Date: 2014-07-30
+Author: George Kikuchi
+Maintainer: George Kikuchi <gkikuchi@csufresno.edu>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: GPL (>= 2)
 Collate:
     'analysisTemp.R'
     'funTemp.R'
+Imports:
+    plotKML
