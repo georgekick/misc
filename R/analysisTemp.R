@@ -3,6 +3,7 @@
 #' @param file a string of a file name
 #' @return file.R
 #' @description create a analysis file template in the working directory
+#' @export
 
 
 ### needs to be changed
