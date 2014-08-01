@@ -49,7 +49,7 @@ ptsKml<- function(kml.name, icon.url, out.dir, spdf, type){
   stopifnot(length(icon.url)==length(type.l))
   
   # check coordinates
-  stopifnot(!is.na(proj4string(pars$spdf))
+  stopifnot(!is.na(proj4string(pars$spdf)))
   latlong <- "+init=epsg:4326"
   if (!proj4string(spdf)==CRS(latlong)){
     spdf <- spTransform(spdf, CRS(latlong))
