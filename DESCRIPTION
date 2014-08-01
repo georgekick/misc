@@ -7,8 +7,5 @@ Author: George Kikuchi
 Maintainer: George Kikuchi <gkikuchi@csufresno.edu>
 Description: More about what it does (maybe more than one line)
 License: GPL (>= 2)
-Collate:
-    'analysisTemp.R'
-    'funTemp.R'
 Imports:
     plotKML
