@@ -2,7 +2,11 @@
 #' @param kml.name a character vector of a kml file name
 #' @param icon.url a character vector of an icon URL
 #' @param out.dir a character vector of an output file directory.The default is current directory
+<<<<<<< HEAD
 #' @param spdf spatial point data frame
+=======
+#' @param spdf spatial polygon data frame
+>>>>>>> bd150c7f2105bfa7df599f2206e4a99619bb4139
 #' @param type an optional argument of a column name indicating incident types
 #' @return a kml point file
 #' @export
