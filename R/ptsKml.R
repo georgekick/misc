@@ -24,7 +24,7 @@ ptsKml<- function(kml.name, icon.url, out.dir, spdf, type){
   # check input arguments
   pars <- as.list(match.call()[-1])
   
-  if (!is.na(pars$type){
+  if (!is.na(pars$type)){
     type.l <- length(table(spdf@data[,as.character(pars$type)]))
     temp <- as.data.frame(table(spdf@data[,as.character(pars$type)]))
     temp[,2] <- seq(1:type.l)
