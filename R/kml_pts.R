@@ -14,6 +14,7 @@
 #' library(lubridate)
 #' library(sp)
 #' library(xtable)
+#' library(plotKML)
 #' icon.url <-  "http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png"
 #' kml.name <- "observed.crime"
 #' data <- read.csv("D:\\Users\\gkikuchi\\Google Drive\\FresnoDailyCrimeRollingData\\FresnoCrimeDailyRoll.csv", stringsAsFactors = F)

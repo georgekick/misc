@@ -4,6 +4,7 @@
 #' @param folder a relative reference path to a destination folder (leave it empty for the current directory)
 #' @return fun.R
 #' @description create a function template in the working directory
+#' @export
 
 funTemp <- function(fun="fun", folder="/R"){
   if (length(folder)>0){
