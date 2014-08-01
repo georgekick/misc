@@ -59,7 +59,7 @@ ptsKml<- function(kml.name, icon.url, out.dir, spdf, type){
   #    name=NULL, description="",
   #    icon=icon.url)
    
-  if length(!is.na(out.dir)){
+  if (length(!is.na(out.dir))){
     filename <- file(paste(out.dir, "/", kml.name, ".kml", sep=""), "w",  blocking=FALSE)
   } else {
     filename <- file(paste(kml.name, ".kml", sep=""), "w",  blocking=FALSE)
