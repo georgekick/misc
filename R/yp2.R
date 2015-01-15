@@ -12,11 +12,8 @@
 #' check  <- yp2(query="check cashing service", location="Philadelphia, PA")
 #' gas  <- yp2(query="Gas Station", location="Philadelphia, PA")
 #' donut  <- yp2(query="Donut Shops", location="Philadelphia, PA")
-
 #' pawnshops  <- yp2(query="Pawnbrokers", location="Philadelphia, PA")
 #' write.table(pawnshops, "PawnshopsPhil.csv", col.names=TRUE, row.names=FALSE, sep=",")
-#' pawnshops  <- yp2(query="Pawnbrokers", location="Fresno, CA")
-#' write.table(pawnshops, "PawnshopsCA.csv", col.names=TRUE, row.names=FALSE, sep=",")
 #' 
 #' }" 
 #' @example <path to R file>
@@ -52,11 +49,11 @@ yp2 <- function(query, location){
 
   # scrape web
   web <- list()
-  pb <- txtProgressBar(0, ceiling(max.results/30), style=3)
+  pb <- txtProgressBar(0.1, ceiling(max.results/30), style=3)
   for(i in 1:ceiling(max.results/30)){
     
     if (i==1){
-      cat(paste("\nEstimated Completion Time:", Sys.time()+seconds(10*ceiling(max.results/30)+max.results), "\n"))   
+      cat(paste("Estimated Completion Time:", Sys.time()+seconds(10*ceiling(max.results/30)+max.results), "\n"))   
       cat("WebScraping", ceiling(max.results/30), "pages ", "\n")
     }  
       Sys.sleep(runif(1, 7, 12))
@@ -83,12 +80,12 @@ yp2 <- function(query, location){
   # process scpraped info
   yp.data <- data.frame(id=character(), name=character(), address=character(), city=character(), state=character(), category=character(), phone=character(), lat=numeric(), long=numeric())
   
-  pb <- txtProgressBar(0, length(web), style=3)
+  pb <- txtProgressBar(0.1, length(web), style=3)
     
   for(i in 1:length(web)){
     
     if (i==1){
-      cat("\nProcessing a total of", length(web), "scraped pages (appx.", length(web)*30, "records)", "\n")
+      cat("Processing a total of", length(web), "scraped pages (appx.", length(web)*30, "records)", "\n")
     }
         
     web2 <- web[[i]]
