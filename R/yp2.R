@@ -13,7 +13,8 @@
 #' gas  <- yp2(query="Gas Station", location="Philadelphia, PA")
 #' donut  <- yp2(query="Donut Shops", location="Philadelphia, PA")
 #' pawnshops  <- yp2(query="Pawnbrokers", location="Philadelphia, PA")
-#' write.table(pawnshops, "PawnshopsPhil.csv", col.names=TRUE, row.names=FALSE, sep=",")
+#' churches  <- yp2(query="churches", location="Fresno, CA")
+#' write.table(churches, "ChurchesFresno.csv", col.names=TRUE, row.names=FALSE, sep=",")
 #' 
 #' }" 
 #' @example <path to R file>
